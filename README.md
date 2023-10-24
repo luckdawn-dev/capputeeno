@@ -1,6 +1,7 @@
 # Capputeeno
 Projeto com passo a passo e estórias de usuário para criação do projeto portfólio Capputeeno.
 
+Protótipo: https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?type=design&node-id=680-6449&mode=design
 Com base no protótipo e instruções fornecidas, podemos estruturar as estórias de usuário (User Stories) da seguinte forma para o projeto:
 
 Catálogo de Produtos:
